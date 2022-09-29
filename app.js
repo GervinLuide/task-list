@@ -35,3 +35,4 @@ function deleteTask(event){
         }
     }
 }
+
